@@ -8,7 +8,7 @@ const connection = mysql.createConnection({
   host: 'sql5.freesqldatabase.com', // Change this to your MySQL host
   user: 'sql5702625', // Change this to your MySQL username
   password: 'eDTHF8XwlS', // Change this to your MySQL password
-  database: 'sql5702625' // Change this to your MySQL database name
+  database: 'sql5702625', // Change this to your MySQL database name
   port: 3306
 });
 
